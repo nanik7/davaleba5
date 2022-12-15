@@ -13,5 +13,36 @@ nav{
 }
 li{
     display: inline-block;
-    margin-right: 181px;
+    margin-right: 171px;
+}
+section{
+    margin: 0 auto;
+    background-color: #306b34;
+    width: 1280px;
+    padding: 174px 110px 152px 95px;
+}
+.photo{
+    width: 679px;
+    height: 453px;
+    margin-right: 70px;
+}
+.div1{
+    display: inline-block;
+    width: 307px;
+    height: 380px;
+    vertical-align: top;
+}
+.h1{
+    width: 255px;
+    height: 30px;
+    margin-bottom: 60px;
+    font-size: 30px;
+    color: #19381f;
+}
+.p1{
+    width: 307px;
+    height: 291px;
+    font-size: 20px;
+    font-style: italic;
+    color: #f4f4f1;
 }
