@@ -1,0 +1,17 @@
+header{
+    margin: 0 auto;
+    padding: 38px 66px 57px 52px;
+    
+}
+.logo{
+    vertical-align: middle;
+    margin-right: 64px;
+}
+nav{
+    display: inline-block;
+    vertical-align: middle;
+}
+li{
+    display: inline-block;
+    margin-right: 181px;
+}
