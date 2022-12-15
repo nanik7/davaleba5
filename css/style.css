@@ -1,19 +1,20 @@
 header{
     margin: 0 auto;
     padding: 38px 66px 57px 52px;
-    
+    width: 1280px;
 }
 .logo{
     vertical-align: middle;
-    margin-right: 64px;
+    margin-right: 60px;
 }
 nav{
     display: inline-block;
     vertical-align: middle;
+    margin-right: 70px;
 }
 li{
     display: inline-block;
-    margin-right: 171px;
+    margin-right: 100px;
     color: #7f7f7f;
 }
 section{
@@ -48,6 +49,8 @@ section{
     color: #f4f4f1;
 }
 article{
+    width: 1280px;
+    margin: 0 auto;
     padding: 130px 137px 150px 175px;
 }
 h2{
@@ -62,4 +65,23 @@ h2{
     font-size: 20px;
     color: #7f7f7f;
     text-align: center;
+}
+footer{
+    width: 1280px;
+    margin: 0 auto;
+    padding: 25px 110px 30px 75px;
+    background-color: #306b34;
+}
+.p3{
+    margin-right: 725px;
+    font-weight: bold;
+    font-size: 20px;
+    display: inline-block;
+    color: #f4f4f1;
+}
+.p4{
+    font-style: italic;
+    color: #f4f4f1;
+    font-size: 12px;
+    display: inline-block;
 }
