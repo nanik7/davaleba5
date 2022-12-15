@@ -14,6 +14,7 @@ nav{
 li{
     display: inline-block;
     margin-right: 171px;
+    color: #7f7f7f;
 }
 section{
     margin: 0 auto;
@@ -45,4 +46,20 @@ section{
     font-size: 20px;
     font-style: italic;
     color: #f4f4f1;
+}
+article{
+    padding: 130px 137px 150px 175px;
+}
+h2{
+    text-align: center;
+    font-size: 40px;
+    color: #36413e;
+    font-style: italic;
+    margin-bottom: 70px;
+}
+.p2{
+    font-style: italic;
+    font-size: 20px;
+    color: #7f7f7f;
+    text-align: center;
 }
